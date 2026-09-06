@@ -7,10 +7,9 @@ This project is an **E-Commerce Sales Analytics Dashboard** created using **Micr
 The dashboard provides a clear overview of sales performance and helps identify important trends related to revenue, products, regions, payment methods, and customer behavior.
 
 ---
-
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](E-CommerceSalesDashboard.png)
+<img src="./E-CommerceSalesDashboard.png" alt="E-Commerce Sales Analytics Dashboard" width="100%">
 
 ---
 
