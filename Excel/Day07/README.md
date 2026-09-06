@@ -10,7 +10,7 @@ The dashboard provides a clear overview of sales performance and helps identify 
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitya-gohel-01/Data-Analytics-/main/Excel/Day07/ECommerceSalesDashboard.png" alt="E-Commerce Sales Analytics Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/nitya-gohel-01/Data-Analytics-/main/Excel/Day07/ECommereceSalesDashboard.png" alt="E-Commerce Sales Analytics Dashboard" width="100%">
 </p>
 
 ---
