@@ -36,14 +36,6 @@ While building this project, I enhanced my practical skills in:
 -   **Dashboard Design**
 -   **Business Intelligence**
 
-## 📷 Dashboard Preview
-
-The dashboard provides an interactive view of sales, profit, product
-categories, customer segments, cities, and sub-category performance.
-
-> **Note:** The preview image is loaded directly from
-> `SuperSalesUSDashboard.png` in this GitHub folder.
-
 ## 🎯 Project Objective
 
 The dashboard was created to demonstrate how raw business data can be
