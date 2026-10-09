@@ -10,7 +10,7 @@ performance, payment preferences, and seasonal sales.
 > `assets/shopping-trends-dashboard.png` to display it here.
 
 ![Shopping Trends Analysis
-Dashboard](assets/shopping-trends-dashboard.png)
+Dashboard](./Screenshot 2026-10-09 201114.png)
 
 ## Project Overview
 
