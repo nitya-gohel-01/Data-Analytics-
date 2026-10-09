@@ -9,7 +9,7 @@ performance, payment preferences, and seasonal sales.
 > Add your dashboard screenshot to the repository at
 > `assets/shopping-trends-dashboard.png` to display it here.
 
-(![Shopping Trends Analysis Dashboard]./Screenshot%202026-10-09%20201114.png)
+![Shopping Trends Analysis Dashboard](./Screenshot%202026-10-09%20201114.png)
 
 ## Project Overview
 
